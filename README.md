@@ -31,7 +31,7 @@
 <!-- Details Section -->
 <!-- Activity Widget -->
 <div align="center">
-    <img alt="Dawnt GitHub Stats" width="49%"
+    <img alt="EZSNova GitHub Stats" width="49%"
         src="https://github-readme-stats.vercel.app/api?username=EZSNoVa&show_icons=true&theme=github_dark" />
 </div>
 <br>
