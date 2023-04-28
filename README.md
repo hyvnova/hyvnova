@@ -11,12 +11,10 @@
 <div align="center" style="display: inline_block">
   <a href="https://github.com/EZSNoVa">
   
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EZSNoVa&layout=compact&theme=radical"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EZSNoVa&theme=radical&layout=compact"/>
     
-  <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api?username=EZSNoVa&show_icons=true&theme=radical"/>
+  <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api?username=EZSNoVa&theme=radical&show_icons=true"/>
     
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=EZSNoVa&theme=radical"
-          alt="EZSNoVa Top Langs by repo" />
 </div>
   
  <div>
