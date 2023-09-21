@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi! <img width="35" src="https://github.com/EZSNoVa/EZSNoVa/blob/main/assets/waving.gif">, I'm Hendrick "Nova"</h1>
+<h1 align="center">Hi!, <img width="35" src="https://github.com/EZSNoVa/EZSNoVa/blob/main/assets/waving.gif">I'm Hendrick "Nova"</h1>
 <h4 align="center">A Freelance Developer, Student and Code Enthusiast!</h4>
 </div> 
 <div align="center">
