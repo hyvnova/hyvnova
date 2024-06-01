@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi!, <img width="35" src="https://github.com/EZSNoVa/EZSNoVa/blob/main/assets/waving.gif">I'm Hendrick "Nova"</h1>
-<h4 align="center">A Freelance Developer, Student and Code Enthusiast!</h4>
+<h4 align="center">Software Developer Specializing in High-Performance Web Apps, Services and Tools.</h4>
 </div> 
 <div align="center">
   <a href="https://github.com/EZSNoVa/EZSNoVa/blob/main/assets/grid-snake.svg">
