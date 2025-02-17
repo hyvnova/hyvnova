@@ -56,8 +56,4 @@
          alt="Gmail"
     />
   </a>
-
-   <a href="https://t.me/hyvnt" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
 </p>
