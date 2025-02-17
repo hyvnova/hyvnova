@@ -1,32 +1,59 @@
-<div align="center">
-<h1 align="center">Hi!, <img width="35" src="https://github.com/hyvnova/hyvnova/blob/main/assets/waving.gif">I'm Hendrick "Nova"</h1>
-<h4 align="center">Software Developer Specializing in High-Performance Web Apps, Services and Tools.</h4>
-</div> 
-<div align="center">
-  <a href="https://github.com/hyvnova/hyvnova/blob/main/assets/grid-snake.svg">
-  <img  src="https://github.com/hyvnova/hyvnova/blob/main/assets/grid-snake.svg"
-       alt="snake eating github activity grid" /></a>
-</div>
 
-<div align="center" style="display: inline_block">
-  <a href="https://github.com/hyvnova">
-  
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyvnova&theme=radical&layout=compact&hide=CSS"/>
-    
-  <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api?username=hyvnova&theme=radical&show_icons=true"/>
-    
-</div>
-  
- <div>
-    <h2 align="center">You can reach me by:</h2>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/hendrick-rodriguez-a6a4b8251/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="Hendrick - hyvnova" height="30"/></a>
-      <a href="mailto:hyvnova@proton.me@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="Hendrick (NoVa) gmail" height="30"/></a>
-    </p>
-  </div>
-  
+
+<!-- Banner -->
+<p align="center">
+  <img 
+       src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=Hyvnt&fontColor=ffffff&fontSize=70&fontAlignY=50&desc=Silly%20|%20Uninsteresting%20|%20Uhhh&descAlignY=76&descAlign=50" 
+       alt="header"
+/>
+</p>
+
+<!-- Snake -->
+<p align="center">
+  <a href="https://github.com/hyvnova/hyvnova/blob/main/assets/grid-snake.svg">
+    <img 
+         src="https://github.com/hyvnova/hyvnova/blob/main/assets/grid-snake.svg" 
+         alt="snake eating GitHub activity grid" 
+         style="max-width: 100%; height: auto;"
+    />
+  </a>
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img 
+       src="https://github-profile-trophy.vercel.app/?username=hyvnova&theme=darkhub&margin-w=15&margin-h=15" 
+       alt="GitHub Trophies" 
+  />
+</p>
+
+<!-- Stats & Languages -->
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=hyvnova&show_icons=true&theme=tokyonight" 
+       alt="GitHub Stats" 
+       style="width: 45%; max-width: 400px; min-width: 200px;"
+  />
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyvnova&layout=compact&theme=tokyonight" 
+       alt="Top Langs" 
+       style="width: 45%; max-width: 400px; min-width: 200px;"
+  />
+</p>
+
+<!-- Contact -->
+<h2 align="center" style="font-family: 'Fira Code', monospace;">Connect</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/hendrick-rodriguez-a6a4b8251/" target="_blank">
+    <img 
+         src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" 
+         alt="LinkedIn"
+    />
+  </a>
+  <a href="mailto:hyvnova@proton.me@gmail.com" target="_blank">
+    <img 
+         src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" 
+         alt="Gmail"
+    />
+  </a>
+</p>
