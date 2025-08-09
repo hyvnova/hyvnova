@@ -40,9 +40,6 @@
 <!-- Contact Section -->
 <h2 align="center" style="font-family: 'Fira Code', monospace;">Connect</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/hendrick-rodriguez-a6a4b8251/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="mailto:hyvnova@proton.me@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
